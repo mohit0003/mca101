@@ -1,3 +1,5 @@
+
+
 def hanoi(n,source,spare,target):
     '''
     objective:to solve problem of tower of hanoi using n discs and 3 poles
